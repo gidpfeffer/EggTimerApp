@@ -8,4 +8,4 @@ The project was taken from a Udemy Intro to App Development course. More informa
 
 ## Demo
 
-<img src="lib/EggTimer.gif" alt="EggTimer Demo" width="50%" height="50%">
+<img src="lib/EggTimer.gif" alt="EggTimer Demo" width="30%" height="30%">
